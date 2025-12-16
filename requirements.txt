@@ -1,0 +1,10 @@
+customtkinter
+docx2pdf
+comtypes
+pypdf
+Pillow
+opencv-python
+pdf2docx
+python-pptx
+pymupdf
+pyinstaller

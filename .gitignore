@@ -1,0 +1,20 @@
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de PyInstaller (Basura y Compilados)
+build/
+dist/
+*.spec
+# NOTA: Comenté *.spec arriba o bórralo de esta lista si quieres subir tu configuración de compilación.
+# Yo te recomiendo subir el .spec, así que asegúrate de que NO esté en esta lista.
+
+# Logs y bases de datos locales
+*.log
+.vscode/
+.idea/
